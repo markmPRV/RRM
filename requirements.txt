@@ -1,0 +1,7 @@
+pytest-playwright
+playwright
+pytest-xdist
+pytest-html
+pytest
+PyYAML
+requests
